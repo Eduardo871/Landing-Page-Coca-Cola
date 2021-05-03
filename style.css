@@ -160,7 +160,8 @@ header .navigation li a
  
 
   /* RESPONSIVE WEB SITE "Query" */
-  @media (min-width: 0px) and (max-width: 360px){
+ 
+  @media (min-width: 200px) and (max-width: 360px){
     header a img 
     {
         width: 140px;
@@ -185,7 +186,7 @@ header .navigation li a
     }
     section
     {
-        height: 140vh;
+        height: 150vh;
     }
     .content
     {
