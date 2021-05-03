@@ -186,7 +186,7 @@ header .navigation li a
     }
     section
     {
-        height: 150vh;
+        height: auto;
     }
     .content
     {
